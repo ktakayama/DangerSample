@@ -1,9 +1,9 @@
 #! /usr/bin/env ruby
 #
-#
-def main
+
+def main_method
   puts 'ok'
 end
 
-main
+main_method
 
